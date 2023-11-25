@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "달콤한 기쁨",
+        "color": "#FF7DEF",
+        "description": "어떤 사건으로 인해 즐거움을 느끼거나 신이 난 적 있었나요? 두근거릴만큼 좋은 순간이 있었다면 골라주세요.",
+        "image": "images/ingredients/ingredient_1.png"
+    },
+    {
+        "id": 2,
+        "name": "든든한 만족감",
+        "color": "#FC8A35",
+        "description": "어떤 일에서 성공을 경험했거나, 노력이 결실을 맺은 순간이 있었나요? 스스로가 자랑스럽고 만족스러웠다면 골라주세요. ",
+        "image": "images/ingredients/ingredient_2.png"
+    },
+    {
+        "id": 3,
+        "name": "향긋한 안정감",
+        "color": "#1E9E6D",
+        "description": "어떤 사건으로 인해 즐거움을 느끼거나 신이 난 적 있었나요? 두근거릴만큼 좋은 순간이 있었다면 골라주세요.",
+        "image": "images/ingredients/ingredient_3.png"
+    },
+    {
+        "id": 4,
+        "name": "새콤한 두려움",
+        "color": "#9AD000",
+        "description": "어떤 사건으로 인해 즐거움을 느끼거나 신이 난 적 있었나요? 두근거릴만큼 좋은 순간이 있었다면 골라주세요.",
+        "image": "images/ingredients/ingredient_4.png"
+    },
+    {
+        "id": 5,
+        "name": "매콤한 분노",
+        "color": "#FF2A1A",
+        "description": "어떤 사건으로 인해 즐거움을 느끼거나 신이 난 적 있었나요? 두근거릴만큼 좋은 순간이 있었다면 골라주세요.",
+        "image": "images/ingredients/ingredient_5.png"
+    },
+    {
+        "id": 6,
+        "name": "차가운 우울감",
+        "color": "#81B4D0",
+        "description": "어떤 사건으로 인해 즐거움을 느끼거나 신이 난 적 있었나요? 두근거릴만큼 좋은 순간이 있었다면 골라주세요.",
+        "image": "images/ingredients/ingredient_6.png"
+    }
+]
