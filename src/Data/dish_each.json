@@ -1,0 +1,243 @@
+[
+    {
+        "id": 1,
+        "name": "딸기 호박 탕후루",
+        "d1": "",
+        "d2": "과 ",
+        "d3": "을\n달콤하게 코팅해 얼린",
+        "image": "images/dish_each/dish_each_01.png"
+    },
+    {
+        "id": 2,
+        "name": "고소한 완두콩 컵케잌",
+        "d1": "부드러운 ",
+        "d2": "을\n푹 삶은 ",
+        "d3": "으로 채운",
+        "image": "images/dish_each/dish_each_02.png"
+    },
+    {
+        "id": 3,
+        "name": "파인애플 솜사탕",
+        "d1": "사르르 녹는 ",
+        "d2": " 사이\n새콤한 ",
+        "d3": " 조각들",
+        "image": "images/dish_each/dish_each_03.png"
+    },
+    {
+        "id": 4,
+        "name": "고추장크림 케잌",
+        "d1": "폭신한 ",
+        "d2": "시트에\n",
+        "d3": " 크림으로 킥을 준",
+        "image": "images/dish_each/dish_each_04.png"
+    },
+    {
+        "id": 5,
+        "name": "딸기우유 수박 화채",
+        "d1": "과즙 가득 ",
+        "d2": "을 넣고\n",
+        "d3": "을 동동 띄운",
+        "image": "images/dish_each/dish_each_05.png"
+    },
+    {
+        "id": 6,
+        "name": "딸기 크림 피자",
+        "d1": "쫀득한 ",
+        "d2": "에\n부드러운 ",
+        "d3": "을 바른",
+        "image": "images/dish_each/dish_each_06.png"
+    },
+    {
+        "id": 7,
+        "name": "아스파라거스 핫도그",
+        "d1": "담백한 ",
+        "d2": "사이\n",
+        "d3": "이 아삭하게 씹히는",
+        "image": "images/dish_each/dish_each_07.png"
+    },
+    {
+        "id": 8,
+        "name": "파인애플 버거",
+        "d1": "고소한 ",
+        "d2": " 사이에\n과즙 가득",
+        "d3": " 두 장",
+        "image": "images/dish_each/dish_each_08.png"
+    },
+    {
+        "id": 9,
+        "name": "김치 크루아상",
+        "d1": "매콤한 ",
+        "d2": "를 넣고 반죽한\n짭짤하고 바삭한",
+        "d3": "",
+        "image": "images/dish_each/dish_each_09.png"
+    },
+    {
+        "id": 10,
+        "name": "아이스크림 붕어빵",
+        "d1": "갓 구워 바삭한 ",
+        "d2": "에\n부드러운 ",
+        "d3": "을 채워 넣은",
+        "image": "images/dish_each/dish_each_10.png"
+    },
+    {
+        "id": 11,
+        "name": "베리 오이 롤초밥",
+        "d1": "향긋한 ",
+        "d2": "으로\n",
+        "d3": "을 돌돌 만",
+        "image": "images/dish_each/dish_each_11.png"
+    },
+    {
+        "id": 12,
+        "name": "두릅 튀김",
+        "d1": "쌉싸래한 ",
+        "d2": "을\n",
+        "d3": "에 버무려 튀긴",
+        "image": "images/dish_each/dish_each_12.png"
+    },
+    {
+        "id": 13,
+        "name": "아스파라거스 피클",
+        "d1": "고소한 ",
+        "d2": "을\n시큼한 ",
+        "d3": "에 절인",
+        "image": "images/dish_each/dish_each_13.png"
+    },
+    {
+        "id": 14,
+        "name": "피망 오븐구이",
+        "d1": "",
+        "d2": "의 속을 파\n짭짤한 ",
+        "d3": "로 꽉 채운",
+        "image": "images/dish_each/dish_each_14.png"
+    },
+    {
+        "id": 15,
+        "name": "쑥 젤리",
+        "d1": "향긋한 ",
+        "d2": "을 넣은\n찰랑한 ",
+        "d3": "",
+        "image": "images/dish_each/dish_each_15.png"
+    },
+    {
+        "id": 16,
+        "name": "캔디 피클",
+        "d1": "새콤 아삭한 ",
+        "d2": "을\n",
+        "d3": " 시럽으로 코팅한",
+        "image": "images/dish_each/dish_each_16.png"
+    },
+    {
+        "id": 17,
+        "name": "피클 콘도그",
+        "d1": "새콤 아삭한 ",
+        "d2": "을\n",
+        "d3": "으로 감싸 튀겨낸",
+        "image": "images/dish_each/dish_each_17.png"
+    },
+    {
+        "id": 18,
+        "name": "차지키 요거트볼",
+        "d1": "꾸덕한 ",
+        "d2": "을\n",
+        "d3": "으로 정성스레 장식한",
+        "image": "images/dish_each/dish_each_18.png"
+    },
+    {
+        "id": 19,
+        "name": "도리로코스",
+        "d1": "",
+        "d2": "을 흩뿌린 칩에\n톡 쏘는 ",
+        "d3": "를 버무린",
+        "image": "images/dish_each/dish_each_19.png"
+    },
+    {
+        "id": 20,
+        "name": "차지키 요거트볼",
+        "d1": "시원하고 톡 쏘는 ",
+        "d2": "에\n부드러운 ",
+        "d3": "을 올린",
+        "image": "images/dish_each/dish_each_20.png"
+    },
+    {
+        "id": 21,
+        "name": "트위즐러 떡꼬치",
+        "d1": "매콤하게 졸인 ",
+        "d2": "를\n쫄깃한 ",
+        "d3": "에 펴 바른",
+        "image": "images/dish_each/dish_each_21.png"
+    },
+    {
+        "id": 22,
+        "name": "빠네 짬뽕",
+        "d1": "얼큰한 ",
+        "d2": "를 적셔\n부드러워진 ",
+        "d3": " 한 입",
+        "image": "images/dish_each/dish_each_22.png"
+    },
+    {
+        "id": 23,
+        "name": "구운 채소 커리",
+        "d1": "오래 끓여 걸쭉한 ",
+        "d2": "에\n아삭한 ",
+        "d3": "을 곁들인",
+        "image": "images/dish_each/dish_each_23.png"
+    },
+    {
+        "id": 24,
+        "name": "라임 요거트 라면",
+        "d1": "감칠맛 가득 ",
+        "d2": "에\n",
+        "d3": "으로 풍미를 더한",
+        "image": "images/dish_each/dish_each_24.png"
+    },
+    {
+        "id": 25,
+        "name": "아이스크림 떡볶이",
+        "d1": "매콤 쫀득한 ",
+        "d2": "에\n차가운 ",
+        "d3": " 한 스쿱",
+        "image": "images/dish_each/dish_each_25.png"
+    },
+    {
+        "id": 26,
+        "name": "민트 체리 셰이크",
+        "d1": "청량한 ",
+        "d2": "에\n",
+        "d3": "을 휘핑해 얹은",
+        "image": "images/dish_each/dish_each_26.png"
+    },
+    {
+        "id": 27,
+        "name": "버섯 아이스크림",
+        "d1": "부드러운 ",
+        "d2": "에\n쫄깃한 ",
+        "d3": "을 곁들인",
+        "image": "images/dish_each/dish_each_27.png"
+    },
+    {
+        "id": 28,
+        "name": "브로콜리 바",
+        "d1": "",
+        "d2": "에 얇게 저민\n",
+        "d3": "을 넣고 꽝꽝 얼린",
+        "image": "images/dish_each/dish_each_28.png"
+    },
+    {
+        "id": 29,
+        "name": "패션후르츠 빙수",
+        "d1": "소복이 쌓인 ",
+        "d2": "에\n톡톡 터지는 ",
+        "d3": "을 얹은",
+        "image": "images/dish_each/dish_each_29.png"
+    },
+    {
+        "id": 30,
+        "name": "트위즐러 떡꼬치",
+        "d1": "씁쓸한 ",
+        "d2": "에\n알싸한 ",
+        "d3": "로 향을 더한",
+        "image": "images/dish_each/dish_each_30.png"
+    }
+    
+]

@@ -1,4 +1,5 @@
 import React, {useState} from 'react'
+import { Link } from 'react-router-dom';
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css"; 
 import "slick-carousel/slick/slick-theme.css";
@@ -48,7 +49,7 @@ export const IngredientPage = (props) => {
             <div className='ingredientpage'>
                 <div className='title'>
                     오늘 Moodish의 <br/>
-                    주재료 골라볼까요?
+                    {currentStage === 1 ? '주재료 골라볼까요?' : '부재료 골라볼까요?'}
                 </div>
                 {currentStage === 1 ?
                     <>
@@ -78,7 +79,7 @@ export const IngredientPage = (props) => {
                             }
                         </Slider>
                         <img key='img2' className="ingredientImg" src={ingredientData.filter((item, i) => i !== firstIngredient)[secondIngredient].image} alt="ingredient"/>
-                        <button className='selectbutton' onClick={setSecondStage}>부재료 선택!</button>
+                        <Link to='/mix' state = {{firstIngredient: firstIngredient, secondIngredient: firstIngredient <= secondIngredient ? secondIngredient + 1 : secondIngredient }} className='selectbutton'>부재료 선택!</Link>
                     </>
                 }
             </div>

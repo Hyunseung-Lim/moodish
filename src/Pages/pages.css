@@ -1,0 +1,192 @@
+@keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+}
+
+.logo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -60%);
+    width: 200px;
+    height: 200px;
+}  
+
+.ingredientpage {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    /* align-items: center; */
+}
+
+.title {
+    width: 320px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    font-size: 22px;
+    font-weight: 800;
+    text-align: left;
+}
+
+.ingredientcard {
+    width: 300px;
+    max-width: 300px;
+    height: 160px;
+    border-radius: 20px;
+    padding: 28px;
+    background-color: #FFFFFF;
+    border: solid 1px #EBEBEB;
+    filter: drop-shadow(rgba(0, 0, 0, 0.1) 0 0 15px);
+    text-align: left;
+    margin: auto;
+}
+
+.ingredientcard > .name {
+    font-size: 24px;
+    font-weight: 800;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.ingredientcard > .description {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.ingredientImg {
+    margin-top: 20px;
+    width: 120%;
+    transform: translate(-8%, 0%);
+}
+
+.selectbutton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    border: none;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-decoration: none;
+    bottom: 0px;
+    width: 320px;
+    height: 54px;
+    border-radius: 30px; 
+    background-color: #464646;
+    margin: auto;
+    margin-bottom: 40px;
+    color: #FFFFFF;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.selectbutton:hover {
+    background-color: #333333;
+}
+
+.foodholder {
+
+    overflow: hidden;
+    margin: auto;
+}
+
+
+.ingredientMixImg {
+    margin-top: 40px;
+    width: 240px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 75px;
+}
+
+.dishpage {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+}
+
+.dishtitle {
+    width: 320px;
+    padding: 80px 20px 20px;
+    margin: auto;
+    font-size: 22px;
+    font-weight: 800;
+    text-align: left;    
+}
+
+.explain {
+    width: 320px;
+    padding: 20px;
+    margin: auto;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: left;    
+}
+
+.dishpage > .ingredientImg {
+    position: absolute;
+    z-index: 0;
+    top: 520px;
+    width: 260%;
+    transform: translate(-50%, -50%);
+    object-fit: cover;
+}
+
+.buttonHolder {
+    margin-top: 34px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.wordBtn {
+    margin: 20px;
+    position: relative;
+    z-index: 1;
+    background-color: white;
+    padding: 12px 30px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+    color: black;
+    border: solid 1px #EBEBEB;
+    filter: drop-shadow(rgba(0, 0, 0, 0.1) 0 0 15px);
+}
+
+.wordBtn:hover {
+    background-color: #FBFBFB;
+}
+
+.dishImg {
+    margin-top: 0;
+    width: 120%;
+    height: 370px;
+    transform: translate(-8%, 0%);
+    object-fit: cover;
+}
+
+.dishInfo {
+    padding-top: 20px;
+    width: 320px;
+    margin: auto;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.8;    
+}
+
+.dishName {
+    padding-top: 6px;
+    width: 320px;
+    margin: auto;
+    font-size: 20px;
+    font-weight: 600;     
+}

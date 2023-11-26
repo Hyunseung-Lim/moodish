@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "달콤한 기쁨",
+        "color": "#FF7DEF",
+        "background_color": "#FFE7FA",
+        "description": "어떤 사건으로 인해 즐거움을 느끼거나 신이 난 적 있었나요? 두근거릴만큼 좋은 순간이 있었다면 골라주세요.",
+        "keywords": ["행복함", "즐거움", "낙관적임", "신남", "충만함"],
+        "image": "images/ingredients/ingredient_1.png"
+    },
+    {
+        "id": 2,
+        "name": "든든한 만족감",
+        "color": "#FC8A35",
+        "background_color": "#FFE5B5",
+        "description": "어떤 일에서 성공을 경험 했거나, 노력이 결실을 맺은 적 있었나요? 만족스럽다고 느낀 순간이 있다면 골라주세요.",
+        "keywords": ["자부심", "자신감", "자존감", "성취감", "보람참"],
+        "image": "images/ingredients/ingredient_2.png"
+    },
+    {
+        "id": 3,
+        "name": "향긋한 안정감",
+        "color": "#1E9E6D",
+        "background_color": "#C9E8DB",
+        "description": "예측 가능하고 안정된 상황 속에 있었던 순간이 있나요? 편안하다고 느낀 적이 있다면 골라주세요.",
+        "keywords": ["편안함", "차분함", "신뢰감", "인릭힘", "안심됨"],
+        "image": "images/ingredients/ingredient_3.png"
+    },
+    {
+        "id": 4,
+        "name": "새콤한 불안",
+        "color": "#9AD000",
+        "background_color": "#FDFFBB",
+        "description": "불확실한 미래를 걱정하거나, 예상치 못한 상황에 긴장하고 불안했던 적 있다면 골라주세요.",
+        "keywords": ["걱정스러움", "불안함", "두려움", "압박감을 느낌", "초조함"],
+        "image": "images/ingredients/ingredient_4.png"
+    },
+    {
+        "id": 5,
+        "name": "매콤한 분노",
+        "color": "#FF2A1A",
+        "background_color": "#FFE4E4",
+        "description": "마음에 들지 않는 상황 때문에 불만을 느낀 적 있나요? 자신에게, 혹은 타인에게 화가 났다면 골라주세요.",
+        "keywords": ["짜증남", "속상함", "실망스러움", "절망적임", "화남"],
+        "image": "images/ingredients/ingredient_5.png"
+    },
+    {
+        "id": 6,
+        "name": "차가운 우울감",
+        "color": "#81B4D0",
+        "background_color": "#EFF9FF",
+        "description": "무력감을 느끼거나 슬픈 기분이 지속되나요? 어떤 일로 인해 기분이 가라앉고, 에너지가 떨어졌다면 골라주세요.",
+        "keywords": ["슬픔", "무기력함", "외로움", "죄책감", "부끄러움"],
+        "image": "images/ingredients/ingredient_6.png"
+    }
+]
