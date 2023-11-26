@@ -92,15 +92,14 @@
 }
 
 .foodholder {
-
     overflow: hidden;
     margin: auto;
 }
 
 
 .ingredientMixImg {
-    margin-top: 40px;
-    width: 240px;
+    margin-bottom: 30px;
+    width: 220px;
     height: 150px;
     object-fit: cover;
     border-radius: 75px;
