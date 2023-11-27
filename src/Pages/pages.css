@@ -28,8 +28,8 @@
     width: 320px;
     padding: 20px;
     margin: auto;
-    margin-top: 60px;
-    margin-bottom: 40px;
+    margin-top: 7vh;
+    margin-bottom: 4vh;
     font-size: 22px;
     font-weight: 800;
     text-align: left;
@@ -38,7 +38,7 @@
 .ingredientcard {
     width: 300px;
     max-width: 300px;
-    height: 160px;
+    height: 140px;
     border-radius: 20px;
     padding: 28px;
     background-color: #FFFFFF;
@@ -98,7 +98,7 @@
 
 
 .ingredientMixImg {
-    margin-bottom: 30px;
+    margin-bottom: 2vh;
     width: 220px;
     height: 150px;
     object-fit: cover;
@@ -123,9 +123,9 @@
 
 .explain {
     width: 320px;
-    padding: 20px;
+    padding: 14px;
     margin: auto;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 500;
     text-align: left;    
 }
@@ -140,14 +140,14 @@
 }
 
 .buttonHolder {
-    margin-top: 34px;
+    margin-top: 5vh;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
 .wordBtn {
-    margin: 20px;
+    margin: 2.5vh;
     position: relative;
     z-index: 1;
     background-color: white;
@@ -168,7 +168,7 @@
 .dishImg {
     margin-top: 0;
     width: 120%;
-    height: 370px;
+    height: 45vh;
     transform: translate(-8%, 0%);
     object-fit: cover;
 }
