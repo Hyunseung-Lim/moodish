@@ -32,7 +32,7 @@
         "color": "#9AD000",
         "background_color": "#FDFFBB",
         "description": "불확실한 미래를 걱정하거나, 예상치 못한 상황에 긴장하고 불안했던 적 있다면 골라주세요.",
-        "keywords": ["걱정스러움", "불안함", "두려움", "압박감을 느낌", "초조함"],
+        "keywords": ["걱정스러움", "불안함", "두려움", "압박감", "초조함"],
         "image": "images/ingredients/ingredient_4.png"
     },
     {
