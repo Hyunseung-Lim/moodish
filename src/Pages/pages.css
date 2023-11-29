@@ -36,8 +36,8 @@
 }
 
 .ingredientcard {
-    width: 300px;
-    max-width: 300px;
+    width: 75vw;
+    max-width: 75vw;
     height: 160px;
     border-radius: 20px;
     padding: 28px;
@@ -52,12 +52,13 @@
     font-size: 24px;
     font-weight: 800;
     margin-top: 10px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 .ingredientcard > .description {
-    font-size: 18px;
+    font-size: 17px;
     font-weight: 500;
+    line-height: 140%;
 }
 
 .ingredientImg {
@@ -102,11 +103,9 @@
 
 
 .ingredientMixImg {
-    margin-bottom: 30px;
-    width: 240px;
-    height: 150px;
+    width: 280px;
+    height: 200px;
     object-fit: cover;
-    border-radius: 75px;
 }
 
 .dishpage {
