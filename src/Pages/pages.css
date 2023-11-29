@@ -118,7 +118,7 @@
 
 .dishtitle {
     width: 320px;
-    padding: calc(5vh + 20px) 20px calc(2vh + 20px);
+    padding: calc(5vh + 20px) 20px calc(2vh + 2px);
     margin: auto;
     font-size: 22px;
     font-weight: 800;
