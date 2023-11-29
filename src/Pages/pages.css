@@ -28,8 +28,8 @@
     width: 320px;
     padding: 20px;
     margin: auto;
-    margin-top: 7vh;
-    margin-bottom: 4vh;
+    margin-top: 5vh;
+    margin-bottom: 2vh;
     font-size: 22px;
     font-weight: 800;
     text-align: left;
@@ -38,7 +38,7 @@
 .ingredientcard {
     width: 300px;
     max-width: 300px;
-    height: 140px;
+    height: 160px;
     border-radius: 20px;
     padding: 28px;
     background-color: #FFFFFF;
@@ -61,9 +61,9 @@
 }
 
 .ingredientImg {
-    margin-top: 20px;
-    width: 120%;
-    transform: translate(-8%, 0%);
+    margin-top: 4vh;
+    width: 60vh;
+    transform: translate(calc(50vw - 30vh), 0%);
 }
 
 .selectbutton {
@@ -75,7 +75,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
     text-decoration: none;
-    bottom: 0px;
+    bottom: -4vh;
     width: 320px;
     height: 54px;
     border-radius: 30px; 
@@ -92,14 +92,18 @@
 }
 
 .foodholder {
+    position: absolute;
+    top: calc(50% + 3vh);
+    left: 50%;
+    transform: translate(-50%, -50%);
     overflow: hidden;
     margin: auto;
 }
 
 
 .ingredientMixImg {
-    margin-bottom: 2vh;
-    width: 220px;
+    margin-bottom: 30px;
+    width: 240px;
     height: 150px;
     object-fit: cover;
     border-radius: 75px;
@@ -114,7 +118,7 @@
 
 .dishtitle {
     width: 320px;
-    padding: 80px 20px 20px;
+    padding: calc(5vh + 20px) 20px calc(2vh + 20px);
     margin: auto;
     font-size: 22px;
     font-weight: 800;
@@ -123,9 +127,9 @@
 
 .explain {
     width: 320px;
-    padding: 14px;
+    padding: 20px;
     margin: auto;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 500;
     text-align: left;    
 }
@@ -140,14 +144,15 @@
 }
 
 .buttonHolder {
-    margin-top: 5vh;
+    margin-top: 2vh;
     display: flex;
     flex-direction: column;
     align-items: center;
+    height: 100%;
 }
 
 .wordBtn {
-    margin: 2.5vh;
+    margin: 2.6vh;
     position: relative;
     z-index: 1;
     background-color: white;
@@ -168,7 +173,7 @@
 .dishImg {
     margin-top: 0;
     width: 120%;
-    height: 45vh;
+    height: 42vh;
     transform: translate(-8%, 0%);
     object-fit: cover;
 }
